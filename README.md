@@ -67,17 +67,20 @@
 ### 💻 Tech Stack & Arsenal
 
 <p align="center">
-  <b>Programming & Scripting</b><br>
+  <b>Programming & Scripting</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,bash,linux,powershell&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,mysql&theme=dark" />
   </a>
 </p>
 
 <p align="center">
-  <b>Security & Tools</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,network,git,github,vscode,docker&theme=dark" />
-  </a>
+  <b>Cyber Security Tools</b><br><br>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-040404?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git_/_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
