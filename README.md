@@ -3,7 +3,7 @@
 <h3 align="center">Cyber Security Student | Penetration Tester | CTF Player | Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Hunting+Flags+in+CTFs;Developing+in+C%2B%2B+%26+Python;Breaching+Defenses+(Ethically);Building+Cyberpunk+Tools" alt="Typing SVG" />
+  <i>"Security is an illusion. We just write the code to prove it."</i>
 </p>
 
 ---
