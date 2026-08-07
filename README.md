@@ -74,13 +74,19 @@
 </p>
 
 <p align="center">
-  <b>Cyber Security Tools</b><br><br>
+  <b>Cyber Security Tools & Operations</b><br><br>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-040404?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git_/_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLmap-1A1A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hashcat-2B2B2B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ghidra-3C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maltego-4D4D4D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV_&_FFmpeg-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ---
