@@ -1,55 +1,87 @@
-Hi, I'm İbrahim İlhan
-Cyber Security Student | Penetration Tester | CTF Player | Software Developer
-Typing SVG
+<h1 align="center">Hi, I'm İbrahim İlhan <img src="https://media.giphy.com/media/mGqOaP809aL8yUv7uO/giphy.gif" width="30"></h1>
 
-🕵️‍♂️ About Me
-🎓 Education & Foundation
-Currently studying Cyber Security & Information Technologies. I have a deep passion for understanding the fundamental mechanics of operating systems, networks, and low-level code.
+<h3 align="center">Cyber Security Student | Penetration Tester | CTF Player | Software Developer</h3>
 
-🚩 CTF Competitor
-An active player in the Capture The Flag scene. I specialize in taking down targets across Web Exploitation, Reverse Engineering, Cryptography, and Pwn. No flag is safe.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Hunting+Flags+in+CTFs;Developing+in+C%2B%2B+%26+Python;Breaching+Defenses+(Ethically);Building+Cyberpunk+Tools" alt="Typing SVG" />
+</p>
 
-⚔️ Red Team Aspirations
-My goal is to become an elite Cyber Security Expert. I believe the best way to secure a system is to learn exactly how to break it down.
+---
 
-🛠️ Software Developer
-I don't just break things; I build them. I write automation scripts, UI/UX-focused applications (like Smart Video Splitter), and security tools that make life easier and systems safer.
+### 🕵️‍♂️ About Me
 
-📜 Core Principles
-🛡️ Security Through Obscurity is a Myth: True security comes from robust architecture, constant auditing, and anticipating the attacker's mindset.
-🔍 If It Has Code, It Has a Vulnerability: I never trust the surface. I dig deep into the execution flow to find exactly what's hidden underneath.
-🎨 Form Meets Function: A tool shouldn't just work flawlessly; it should look premium and feel intuitive. I bridge the gap between heavy backend logic and clean aesthetics.
-⚡ Automate the Mundane: Why do a task twice manually when you can write a script to do it instantly? Efficiency is everything.
-🛠️ Projects & Operations
-🎬 Smart Video Splitter
-A highly optimized, cyberpunk-themed automated video processing tool built with Python & FFmpeg. Features intelligent scene transition detection.
-Python | Computer Vision | Custom UI/UX
+<p>
+  <b>🎓 Education & Foundation</b><br>
+  Currently studying <i>Cyber Security & Information Technologies</i>. I have a deep passion for understanding the fundamental mechanics of operating systems, networks, and low-level code.
+</p>
 
-	🚩 CTF Writeups & Tools
-Scripts, payloads, and automated tools I develop while participating in Capture The Flag competitions. Focusing on Web Exploitation and Binary Exploitation.
-C++ | Python | Bash | Security
+<p>
+  <b>🚩 CTF Competitor</b><br>
+  An active player in the Capture The Flag scene. I specialize in taking down targets across <i>Web Exploitation, Reverse Engineering, Cryptography, and Pwn</i>. No flag is safe.
+</p>
 
+<p>
+  <b>⚔️ Red Team Aspirations</b><br>
+  My goal is to become an elite <i>Cyber Security Expert</i>. I believe the best way to secure a system is to learn exactly how to break it down.
+</p>
 
-💻 Tech Stack & Arsenal
-Programming & Scripting
+<p>
+  <b>🛠️ Software Developer</b><br>
+  I don't just break things; I build them. I write automation scripts, UI/UX-focused applications (like <i>Smart Video Splitter</i>), and security tools that make life easier and systems safer.
+</p>
 
+---
 
-Security & Tools
+### 📜 Core Principles
 
+* 🛡️ **Security Through Obscurity is a Myth:** True security comes from robust architecture, constant auditing, and anticipating the attacker's mindset.
+* 🔍 **If It Has Code, It Has a Vulnerability:** I never trust the surface. I dig deep into the execution flow to find exactly what's hidden underneath.
+* 🎨 **Form Meets Function:** A tool shouldn't just work flawlessly; it should look premium and feel intuitive. I bridge the gap between heavy backend logic and clean aesthetics.
+* ⚡ **Automate the Mundane:** Why do a task twice manually when you can write a script to do it instantly? Efficiency is everything.
 
-Console logged out. End of transmission.
+---
 
-<!--
-**ibrahimilhan/ibrahimilhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Projects & Operations
 
-Here are some ideas to get you started:
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>🎬 Smart Video Splitter</b><br>
+      A highly optimized, cyberpunk-themed automated video processing tool built with Python & FFmpeg. Features intelligent scene transition detection.<br>
+      <i>Python | Computer Vision | Custom UI/UX</i><br>
+      <br>
+      <a href="https://github.com/ibrahimilhan/SmartVideoSplitter"><img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
+    </td>
+    <td align="center" width="50%">
+      <b>🚩 CTF Writeups & Tools</b><br>
+      Scripts, payloads, and automated tools I develop while participating in Capture The Flag competitions. Focusing on Web Exploitation and Binary Exploitation.<br>
+      <i>C++ | Python | Bash | Security</i><br>
+      <br>
+      <a href="#"><img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack & Arsenal
+
+<p align="center">
+  <b>Programming & Scripting</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,bash,linux,powershell&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Security & Tools</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,network,git,github,vscode,docker&theme=dark" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Console logged out. End of transmission.</i>
+</p>
